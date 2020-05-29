@@ -1,1 +1,1 @@
- print("succeed")
+print("succeed")
